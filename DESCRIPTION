@@ -1,0 +1,19 @@
+Package: sikfaan
+Title: Provides tools for examining PostgreSQL databases in GigaDB
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Peter",
+           family = "Li",
+           role = c("aut", "cre"),
+           email = "peter@gigasciencejournal.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    stringr,
+    pracma
+RoxygenNote: 6.1.99.9000
+Suggests: 
+    testthat
